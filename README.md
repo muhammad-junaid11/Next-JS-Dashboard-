@@ -16,11 +16,11 @@ bun dev
 
 ![image alt](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true)
 
-![image alt]([https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page%202.PNG?raw=true)
+![image alt](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page%202.PNG?raw=true)
 
-![image alt]([https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20courses.PNG?raw=true)
+![image alt](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20courses.PNG?raw=true)
 
-![image alt]([https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20reviews.PNG?raw=true)
+![image alt](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20main%20page.PNG?raw=true](https://github.com/muhammad-junaid11/Next-JS-Dashboard-/blob/main/dashboard%20reviews.PNG?raw=true)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
